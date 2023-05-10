@@ -1,0 +1,6 @@
+[submodule "Linkr-Front"]
+	path = Linkr-Front
+	url = https://github.com/Tallispt/Linkr-Front.git
+[submodule "Linkr-Back"]
+	path = Linkr-Back
+	url = https://github.com/Tallispt/Linkr-Back.git
