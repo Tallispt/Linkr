@@ -14,11 +14,12 @@ A React JS project for for sharing links between friends. Follow, like, comment,
 - ## [Linkr Backend](https://github.com/Tallispt/Linkr-Back)
 
   #### Technologies Used
-
-  - [React](https://pt-br.reactjs.org/)
-  - [Axios](https://axios-http.com/docs/intro)
-  - [Styled Components](https://styled-components.com/)
-  - [React tagify](https://github.com/yairEO/tagify)
+  
+  - [NodeJS](https://nodejs.org/pt-br/docs)
+  - [Express](https://expressjs.com/)
+  - [PostgreSQL](https://www.postgresql.org/)
+  - [JWT](https://jwt.io/)
+  - [Joi](https://joi.dev/api/?v=17.9.1)
 
 #### Screenshots
 
